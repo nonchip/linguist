@@ -1851,6 +1851,20 @@ Literate CoffeeScript:
   - .litcoffee
   ace_mode: text
 
+Literate MoonScript:
+  type: programming
+  tm_scope: source.litmoon
+  group: MoonScript
+  ace_mode: markdown
+  wrap: true
+  search_term: litmoon
+  aliases:
+  - litmoon
+  extensions:
+  - .litmoon
+  ace_mode: text
+
+
 Literate Haskell:
   type: programming
   group: Haskell
